@@ -3,7 +3,7 @@ package model
 import (
 	"time"
 
-	"github.com/ucok-man/hotelcom/shared/validator"
+	"github.com/ucok-man/bookingcom-shared/validator"
 )
 
 const (

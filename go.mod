@@ -1,4 +1,4 @@
-module github.com/ucok-man/hotelcom/shared
+module github.com/ucok-man/bookingcom-shared
 
 go 1.21.6
 
